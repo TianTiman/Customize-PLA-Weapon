@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>PLA Customize Weapon 天体的pla定制武器补丁包</name>
+  <author>TianTi</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>TianTi.PLA.CustomizeWeapon</packageId>
+  <loadAfter>
+    <li>IssacZhuang.PLA.Armory</li>
+    <li>Vortex.CustomizeWeapon</li>
+  </loadAfter>
+  <description>
+pla武器的CustomizeWeapon补丁
+	</description>
+</ModMetaData>

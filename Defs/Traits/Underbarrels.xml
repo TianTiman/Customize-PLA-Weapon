@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 垂直握把 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_HandleA</defName>
+    <label>Vertical grip</label>
+    <description>This vertical foregrip provides an additional point of contact, giving the user greater control over the weapon. This enhanced stability is particularly effective for improving aiming precision during close-quarters combat.</description>
+    <statFactors>
+      <AccuracyTouch>1.1</AccuracyTouch>
+      <AccuracyShort>1.1</AccuracyShort>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- 两脚架 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_HandleB</defName>
+    <label>Bipod</label>
+    <description>The two tripods sacrifice the speed of steering and aiming to enhance the stability of the weapon. This enables the shooter to conduct precise long-range shooting and increase the effective range.</description>
+    <statOffsets>
+      <RangedWeapon_WarmupMultiplier>0.1</RangedWeapon_WarmupMultiplier>
+      <RangedWeapon_RangeMultiplier>0.1</RangedWeapon_RangeMultiplier>
+    </statOffsets>    
+    <statFactors>
+      <AccuracyMedium>1.1</AccuracyMedium>
+      <AccuracyLong>1.1</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- 激光辅瞄器 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_LaserSight</defName>
+    <label>laser sight</label>
+    <description>This module projects a visible laser dot directly onto the target. This allows for rapid, intuitive point-and-shoot aiming, which significantly speeds up target acquisition and increases precision in close to medium-range engagements.</description>
+    <statOffsets>
+      <RangedWeapon_WarmupMultiplier>-0.2</RangedWeapon_WarmupMultiplier>
+    </statOffsets>
+    <statFactors>
+      <AccuracyTouch>1.1</AccuracyTouch>
+      <AccuracyShort>1.1</AccuracyShort>
+      <AccuracyMedium>1.1</AccuracyMedium>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- 下挂榴弹发射器 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_HandleC</defName>
+    <label>grenade launcher</label>
+    <description>This underbarrel attachment allows the weapon to fire a single high-explosive fragmentation grenade, providing a powerful area-of-effect option. It must be reloaded after each use.</description>
+    <abilityProps>
+      <abilityDef>CWF_Ability_LaunchFragGrenade</abilityDef>
+      <maxCharges>1</maxCharges>
+      <soundReload>Standard_Reload</soundReload>
+      <chargeNoun>grenade</chargeNoun>
+      <ammoDef>Steel</ammoDef>
+      <ammoCountPerCharge>25</ammoCountPerCharge>
+      <baseReloadTicks>60</baseReloadTicks>
+    </abilityProps>
+  </WeaponTraitDef>
+
+  <!-- 下挂烟雾发射器 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_HandleD</defName>
+    <label>smoke launcher</label>
+    <description>This underbarrel launcher fires shells that release a dense cloud of smoke upon impact. It's perfect for obscuring sightlines and creating cover. It holds two shells and must be reloaded after they are used.</description>
+    <abilityProps>
+      <abilityDef>CWF_Ability_LaunchSmokeShell</abilityDef>
+      <maxCharges>1</maxCharges>
+      <soundReload>Standard_Reload</soundReload>
+      <chargeNoun>shell</chargeNoun>
+      <ammoDef>Steel</ammoDef>
+      <ammoCountPerCharge>15</ammoCountPerCharge>
+      <baseReloadTicks>60</baseReloadTicks>
+    </abilityProps>
+  </WeaponTraitDef>
+
+  <!-- 下挂EMP弹发射器 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_HandleE</defName>
+    <label>EMP cannon</label>
+    <description>This underbarrel launcher fires specialized EMP shells. Upon impact, they release a powerful electromagnetic pulse capable of stunning mechanoids and disabling electronics. It can be fired twice before requiring a reload.</description>
+    <abilityProps>
+      <abilityDef>CWF_Ability_LaunchEMPShell</abilityDef>
+      <maxCharges>1</maxCharges>
+      <soundReload>Standard_Reload</soundReload>
+      <chargeNoun>shell</chargeNoun>
+      <ammoDef>Steel</ammoDef>
+      <ammoCountPerCharge>15</ammoCountPerCharge>
+      <baseReloadTicks>60</baseReloadTicks>
+    </abilityProps>
+  </WeaponTraitDef>
+
+  <!-- 下挂燃烧弹发射器 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_HandleF</defName>
+    <label>incendiary launcher</label>
+    <description>This underbarrel attachment fires a single incendiary shell. Upon impact, it bursts and splashes a wide area with burning chemfuel, creating a field of fire. It must be reloaded after each shot.</description>
+    <abilityProps>
+      <abilityDef>CWF_Ability_LaunchIncendiaryShell</abilityDef>
+      <maxCharges>1</maxCharges>
+      <soundReload>Standard_Reload</soundReload>
+      <chargeNoun>shell</chargeNoun>
+      <ammoDef>Chemfuel</ammoDef>
+      <ammoCountPerCharge>15</ammoCountPerCharge>
+      <baseReloadTicks>60</baseReloadTicks>
+    </abilityProps>
+  </WeaponTraitDef>
+
+</Defs>

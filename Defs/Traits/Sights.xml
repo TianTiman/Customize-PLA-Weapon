@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- QMK-152改进型班用枪械瞄准镜（3倍放大） -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_QMKOneFiveTwo</defName>
+    <label>QMK-152 sight</label>
+    <description>The QMK152 Sight is an electro-optical aiming system designed for the QBZ191, with an amplification ratio of 3 times.The BAC automatic zoom function is utilized to enable quick aiming with both eyes, significantly reducing the time required to lock onto the target.</description>
+    <statOffsets>
+      <RangedWeapon_WarmupMultiplier>-0.1</RangedWeapon_WarmupMultiplier>
+    </statOffsets>    
+    <statFactors>
+      <AccuracyTouch>1.3</AccuracyTouch>
+      <AccuracyShort>1.3</AccuracyShort>
+      <AccuracyMedium>1.3</AccuracyMedium>
+    </statFactors>
+  </WeaponTraitDef>
+
+    <!-- IR5118热成像瞄准镜（1倍放大） -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_IRFiveOneOneEight</defName>
+    <label>IR5118 sight</label>
+    <description>The IR5118 thermal imaging sight features intelligence, stable quality, portability and durability. It has the ability to ignore differences in low and high light conditions, and also has WIFI transmission, video transmission and tracking functions.</description>
+    <statOffsets>
+      <RangedWeapon_WarmupMultiplier>-0.2</RangedWeapon_WarmupMultiplier>
+    </statOffsets>    
+    <statFactors>
+      <AccuracyTouch>1.15</AccuracyTouch>
+      <AccuracyShort>1.15</AccuracyShort>
+      <AccuracyMedium>1.15</AccuracyMedium>
+      <AccuracyLong>1.15</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+    <!-- CS/OS20A型白光瞄准镜（4-15倍放大） -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_CSOSTwoZeroA</defName>
+    <label>CSOSTwoZeroA sight</label>
+    <description>The CS/OS20A type white light sight has an amplification rate of 4 to 15 times. Its main tactical application is to enable precise aiming and attack on targets ranging from 10 meters to 1,200 meters.</description>     
+    <statFactors>
+      <RangedWeapon_RangeMultiplier>1.15</RangedWeapon_RangeMultiplier>
+      <AccuracyShort>1.3</AccuracyShort>
+      <AccuracyMedium>1.3</AccuracyMedium>
+      <AccuracyLong>1.3</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+    <!-- Y/MJL-11-005光电瞄准镜 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_YMJLOneOneZeroZeroFive</defName>
+    <label>YMJLOneOneZeroZeroFive sight</label>
+    <description>Y/MJL-11-005 electro-optical sight is capable of a series of automated functions, including laser ranging, ammunition type selection, temperature sensing, pitch angle sensing, automatic drift correction, manual crosswind, altitude correction, automatic calculation, automatic programming of firing data, and self-checking for faults.</description>
+    <statOffsets>
+      <RangedWeapon_WarmupMultiplier>-0.15</RangedWeapon_WarmupMultiplier>
+    </statOffsets>    
+    <statFactors>
+      <RangedWeapon_RangeMultiplier>1.1</RangedWeapon_RangeMultiplier>
+      <AccuracyTouch>1.2</AccuracyTouch>
+      <AccuracyShort>1.2</AccuracyShort>
+      <AccuracyMedium>1.2</AccuracyMedium>
+      <AccuracyLong>1.2</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- 全息瞄准镜 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_Holoscope</defName>
+    <label>holoscope</label>
+    <description>This holographic sight projects a clear reticle into the user's field of view. It enables rapid, both-eyes-open aiming, which significantly reduces targeting time and increases precision from point-blank to medium ranges.</description>
+    <statOffsets>
+      <RangedWeapon_WarmupMultiplier>-0.2</RangedWeapon_WarmupMultiplier>
+    </statOffsets>
+    <statFactors>
+      <AccuracyTouch>1.15</AccuracyTouch>
+      <AccuracyShort>1.15</AccuracyShort>
+      <AccuracyMedium>1.15</AccuracyMedium>
+    </statFactors>
+  </WeaponTraitDef>
+</Defs>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <PLA_Module_DVPEightEightA.label>5.8x42mm DVP88-A重尖普通弹</PLA_Module_DVPEightEightA.label>
+  <PLA_Module_DVPEightEightA.description>重尖弹是一种弹头比轻尖弹更重的普通弹头，它们一般有空气动力学性能更好的外形，常用于机枪使用以增大射程并降低子弹的失速速度</PLA_Module_DVPEightEightA.description>
+
+  <PLA_Module_CSBMEFive.label>"精锤"CS/BME5型60毫米卫星制导迫弹</PLA_Module_CSBMEFive.label>
+  <PLA_Module_CSBMEFive.description>卫星制导的迫击炮弹,有效提升了射程和射击精度</PLA_Module_CSBMEFive.description>
+
+  <PLA_Module_DBDZeroNine.label>DBD-09 18.4mm钨合金杀伤人员霰弹</PLA_Module_DBDZeroNine.label>
+  <PLA_Module_DBDZeroNine.description>采用钨合金弹丸,提升了装甲穿透能力,由于装填的弹丸数量多于寻常的12号霰弹,因此能造成更高的伤害</PLA_Module_DBDZeroNine.description>
+
+  <PLA_Module_DBUOneFourOne.label>5.8x42mm DBU141狙击弹</PLA_Module_DBUOneFourOne.label>
+  <PLA_Module_DBUOneFourOne.description>专门研发的高精度狙击弹，能有效提高射击精度</PLA_Module_DBUOneFourOne.description>
+
+  <PLA_Module_DBUTwoZeroTwo.label>8.6x70mm DBU202狙击弹</PLA_Module_DBUTwoZeroTwo.label>
+  <PLA_Module_DBUTwoZeroTwo.description>专为QBU202狙击枪研发的.高精度狙击弹,采用铜被甲铅芯空尖结构,有效提升了精准度和杀伤性</PLA_Module_DBUTwoZeroTwo.description>
+
+  <PLA_Module_DBJOneZero.label>12.7x108mm DBJ10多功能弹</PLA_Module_DBJOneZero.label>
+  <PLA_Module_DBJOneZero.description>穿甲爆炸燃烧弹,由惰性弹芯、燃烧剂、底托和尼龙风帽组成.以弹芯压力惰性材料释放产生的炸裂,达到炸药爆炸的爆速,加上飞溅的燃烧剂,实现爆炸燃烧效果,产生横向效应破片,形成高速破片杀伤敌人.</PLA_Module_DBJOneZero.description>
+
+  <PLA_Module_DBTOneZero.label>12.7x108mm DBT10狙击弹</PLA_Module_DBTOneZero.label>
+  <PLA_Module_DBTOneZero.description>专门研发的高精度狙击弹，能有效提高射击精度</PLA_Module_DBTOneZero.description>
+  
+</LanguageData>

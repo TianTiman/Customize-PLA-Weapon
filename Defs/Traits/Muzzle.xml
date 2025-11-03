@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- PLA制退器 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_Muzzle</defName>
+    <label>Muzzle brake</label>
+    <description>By reducing the flow of gunpowder gas forward through the central bullet hole, the recoil force on the weapon is decreased.</description>
+    <statFactors>
+      <RangedWeapon_Cooldown>0.8</RangedWeapon_Cooldown>
+    </statFactors>
+  </WeaponTraitDef>
+</Defs>

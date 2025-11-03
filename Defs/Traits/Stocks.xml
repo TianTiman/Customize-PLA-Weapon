@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- PLA伸缩枪托 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_Stock</defName>
+    <label>Telescopic Stock</label>
+    <description>Adjustable retractable stock for improved ergonomics. A better fit allows for a more stable shooting stance and greater precision.</description>
+    <statFactors>
+      <Mass>0.95</Mass>
+      <AccuracyTouch>1.1</AccuracyTouch>
+      <AccuracyShort>1.1</AccuracyShort>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- PLA缓冲枪托 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_StockA</defName>
+    <label>Buffering Stock</label>
+    <description>A tubular gunstock similar to an adjustable stock was adopted, with a buffer mechanism. During firing, the entire gun body would float and recoil within the gunstock, and the spring would buffer the recoil force of the weapon.</description>
+    <statFactors>
+      <RangedWeapon_Cooldown>0.8</RangedWeapon_Cooldown>
+    </statFactors>
+  </WeaponTraitDef>
+</Defs>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 5.8x42mm DVP88-A重尖普通弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_DVPEightEightA</defName>
+    <label>5.8x42mm DVP88-A</label>
+    <description>The heavy-pointed bullet is a type of ordinary bullet with a heavier bullet head compared to the light-pointed bullet. They usually have a more aerodynamic shape and are often used in machine guns to increase the range and reduce the drag speed of the bullet.</description>
+    <statOffsets>
+      <RangedWeapon_ArmorPenetrationMultiplier>0.1</RangedWeapon_ArmorPenetrationMultiplier>
+      <RangedWeapon_DamageMultiplier>0.1</RangedWeapon_DamageMultiplier>
+    </statOffsets>
+    <additionalStoppingPower>0.5</additionalStoppingPower>
+  </WeaponTraitDef>
+
+  <!-- "精锤"CS/BME5型60毫米卫星制导迫弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_CSBMEFive</defName>
+    <label>CS/BME5 60mm Satellite-Guided Mortar Shell</label>
+    <description>Satellite-guided mortar shells have effectively enhanced the range and shooting accuracy.</description>
+    <statOffsets>
+      <RangedWeapon_RangeMultiplier>0.2</RangedWeapon_RangeMultiplier>
+    </statOffsets>
+  </WeaponTraitDef>
+
+  <!-- DBD-09 18.4mm钨合金杀伤人员霰弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_DBDZeroNine</defName>
+    <label>DBD-09 18.4mm tungsten alloy anti-personnel shotgun pellets</label>
+    <description>Using tungsten alloy projectiles has enhanced the armor-penetrating capability. As the number of projectiles loaded is greater than that of the usual 12-gauge shotgun, it can cause higher damage.</description>
+    <statOffsets>
+      <RangedWeapon_ArmorPenetrationMultiplier>0.2</RangedWeapon_ArmorPenetrationMultiplier>
+      <RangedWeapon_DamageMultiplier>0.1</RangedWeapon_DamageMultiplier>
+    </statOffsets>
+  </WeaponTraitDef>
+
+  <!-- 5.8x42mm DBU141狙击弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_DBUOneFourOne</defName>
+    <label>5.8x42mm DBU141</label>
+    <description>The specially developed high-precision sniper bullet can effectively improve shooting accuracy.</description>
+    <statOffsets>
+      <RangedWeapon_RangeMultiplier>0.1</RangedWeapon_RangeMultiplier>
+    </statOffsets>
+    <statFactors>
+      <AccuracyTouch>1.1</AccuracyTouch>
+      <AccuracyShort>1.1</AccuracyShort>
+      <AccuracyMedium>1.1</AccuracyMedium>
+      <AccuracyLong>1.1</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- 8.6x70mm DBU202狙击弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_DBUTwoZeroTwo</defName>
+    <label>8.6x70mm DBU202</label>
+    <description>The high-precision sniper ammunition specially developed for the QBU202 sniper rifle features a copper-cased lead core hollow tip structure, which effectively enhances accuracy and lethality.</description>
+    <statOffsets>
+      <RangedWeapon_RangeMultiplier>0.1</RangedWeapon_RangeMultiplier>
+      <RangedWeapon_DamageMultiplier>0.2</RangedWeapon_DamageMultiplier>
+    </statOffsets>
+    <statFactors>
+      <AccuracyTouch>1.1</AccuracyTouch>
+      <AccuracyShort>1.1</AccuracyShort>
+      <AccuracyMedium>1.1</AccuracyMedium>
+      <AccuracyLong>1.1</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- DBJ10式12.7毫米多功能弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_DBJOneZero</defName>
+    <label>12.7x108mm DBJ10</label>
+    <description>Armor-piercing explosive incendiary rounds are composed of an inert core, incendiary agent, base and nylon wind cap. The inert material is released by the pressure of the core, generating a fragmentation effect at the speed of an explosive blast. Combined with the splashing incendiary agent, it achieves an explosive incendiary effect, creating high-speed fragmentation to kill the enemy.</description>
+    <statOffsets>
+      <RangedWeapon_ArmorPenetrationMultiplier>0.2</RangedWeapon_ArmorPenetrationMultiplier>
+      <RangedWeapon_DamageMultiplier>0.2</RangedWeapon_DamageMultiplier>
+    </statOffsets>
+  </WeaponTraitDef>
+
+  <!-- DBT10式12.7毫米狙击弹 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_DBTOneZero</defName>
+    <label>12.7x108mm DBT10</label>
+    <description>The specially developed high-precision sniper bullet can effectively improve shooting accuracy.</description>
+    <statOffsets>
+      <RangedWeapon_RangeMultiplier>0.1</RangedWeapon_RangeMultiplier>
+    </statOffsets>
+    <statFactors>
+      <AccuracyTouch>1.1</AccuracyTouch>
+      <AccuracyShort>1.1</AccuracyShort>
+      <AccuracyMedium>1.1</AccuracyMedium>
+      <AccuracyLong>1.1</AccuracyLong>
+    </statFactors>
+  </WeaponTraitDef>
+
+</Defs>

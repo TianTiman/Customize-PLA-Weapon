@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- 5.8x42mm DVP88-A重尖普通弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_DVPEightEightA</defName>
+    <label>5.8x42mm DVP88-A</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/DVPEightEightA</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_DVPEightEightA</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- "精锤"CS/BME5型60毫米卫星制导迫弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_CSBMEFive</defName>
+    <label>CS/BME5 60mm Satellite-Guided Mortar Shell</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_CSBMEFive</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_PBPTwoZeroOne</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- DBD-09 18.4mm钨合金杀伤人员霰弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_DBDZeroNine</defName>
+    <label>DBD-09</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_DBDZeroNine</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_QBATwoTwoOne</li>
+          <li>PLA_QBSZeroNine</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 5.8x42mm DBU141狙击弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_DBUOneFourOne</defName>
+    <label>5.8x42mm DBU141</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/DBUOneFourOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_DBUOneFourOne</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 8.6x70mm DBU202狙击弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_DBUTwoZeroTwo</defName>
+    <label>5.8x42mm DBU141</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_DBUTwoZeroTwo</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_QBUTwoZeroTwo</li>
+          <li>PLA_QJYTwoZeroOneE</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- DBJ10式12.7毫米多功能弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_DBJOneZero</defName>
+    <label>12.7x108mm DBJ10</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_DBJOneZero</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_QJZOneSevenOne</li>
+          <li>PLA_QBUTen</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- DBT10式12.7毫米狙击弹 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_DBTOneZero</defName>
+    <label>12.7x108mm DBT10</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+  <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+  </costList>
+  <recipeMaker>
+    <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+  </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_DBTOneZero</weaponTraitDef>
+        <part>Ammo</part>
+        <requiredWeaponTags>
+          <li>PLA_QJZOneSevenOne</li>
+          <li>PLA_QBUTen</li>
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

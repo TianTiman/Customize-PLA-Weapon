@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<PLA_Trait_BarrelA.label>PLA长枪管</PLA_Trait_BarrelA.label>
+<PLA_Trait_BarrelA.description>长枪管.通过提高弹丸的枪口初速,使其飞得更远,从而增加武器的有效射程.</PLA_Trait_BarrelA.description>
+
+<PLA_Trait_BarrelB.label>PLA短枪管</PLA_Trait_BarrelB.label>
+<PLA_Trait_BarrelB.description>短枪管.牺牲弹丸的枪口初速,导致武器的有效射程缩短,但更轻的重量和更好的平衡性也让射手能更快完成瞄准.</PLA_Trait_BarrelB.description>
+  
+</LanguageData>

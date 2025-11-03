@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<PLA_Module_Stock.label>PLA伸缩枪托</PLA_Module_Stock.label>
+<PLA_Module_Stock.description>伸缩枪托可调节长度,提升人机工效.更佳的贴合度让射手以更稳定的姿态射击,获得更出色的射击精度.</PLA_Module_Stock.description>
+
+<PLA_Module_StockA.label>PLA缓冲枪托</PLA_Module_StockA.label>
+<PLA_Module_StockA.description>采用了一种类似伸缩枪托的管状枪托,通过一个缓冲结构.在射击时整个枪身会在枪托内浮动后坐,通过弹簧缓冲武器的后坐力.</PLA_Module_StockA.description>
+
+</LanguageData>

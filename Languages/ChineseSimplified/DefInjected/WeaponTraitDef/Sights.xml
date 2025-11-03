@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<PLA_Trait_QMKOneFiveTwo.label>QMK152白光瞄准镜</PLA_Trait_QMKOneFiveTwo.label>
+<PLA_Trait_QMKOneFiveTwo.description>QMK152白光瞄准镜是为新的QBZ191设计的光电瞄准系统,放大倍率为3倍.使用了BAC自动变倍功能,以便双眼快速瞄准,显著减少锁定目标所需的时间.</PLA_Trait_QMKOneFiveTwo.description>
+
+<PLA_Trait_IRFiveOneOneEight.label>IR5118热成像瞄准镜</PLA_Trait_IRFiveOneOneEight.label>
+<PLA_Trait_IRFiveOneOneEight.description>IR5118热成像瞄准镜具有智能,质量稳定,轻便耐用等优点,放大倍率为1倍.兼容弱光和强光的无视差能力,同时具有WIFI传输,视频传输,跟踪功能.</PLA_Trait_IRFiveOneOneEight.description>
+
+<PLA_Trait_CSOSTwoZeroA.label>CS/OS20A白光瞄准镜</PLA_Trait_CSOSTwoZeroA.label>
+<PLA_Trait_CSOSTwoZeroA.description>CS/OS20A型白光瞄准镜放大倍率为4-15倍,其主要战术用途是实现对10米到1200米范围内的人物目标实施精确瞄准打击</PLA_Trait_CSOSTwoZeroA.description>
+
+<PLA_Trait_YMJLOneOneZeroZeroFive.label>Y/MJL-11-005光电瞄准镜</PLA_Trait_YMJLOneOneZeroZeroFive.label>
+<PLA_Trait_YMJLOneOneZeroZeroFive.description>Y/MJL-11-005光电瞄准镜,可以进行激光测距,弹种选择,温度传感,俯仰角传感,偏流自动修正,人工横风,海拔修正,自动解算,自动装订射击诸元,故障自检等一系列自动化功能.</PLA_Trait_YMJLOneOneZeroZeroFive.description>
+
+<PLA_Trait_Holoscope.label>PLA全息瞄具</PLA_Trait_Holoscope.label>
+<PLA_Trait_Holoscope.description>先进的全息瞄准镜。它呈现清晰的瞄准标线，以便双眼快速瞄准，显著减少锁定目标所需的时间，并提升中近距离内的射击精度。</PLA_Trait_Holoscope.description>
+
+</LanguageData>

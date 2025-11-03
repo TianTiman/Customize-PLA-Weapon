@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- PLA制退器 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_Muzzle</defName>
+    <label>Muzzle brake</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Stock/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_Muzzle</weaponTraitDef>
+        <part>Muzzle</part>
+       <requiredWeaponTags>
+       <li>PLA_QBZOneNineOne</li>
+       <li>PLA_QBATwoTwoOne</li>
+       <li>PLA_QLUEleven</li>
+       <li>PLA_QBUTwoZeroTwo</li>
+       <li>PLA_QJYTwoZeroOneE</li>
+       <li>PLA_QJZOneSevenOne</li>
+       <li>PLA_QBUTen</li>    
+       </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QLUEleven</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Muzzle/PLA_Module_Muzzle</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Muzzle/PLA_Module_Muzzle_o</outlinePath>
+              <offset>(362, 131)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li> 
+    </modExtensions>
+  </ThingDef>
+</Defs>

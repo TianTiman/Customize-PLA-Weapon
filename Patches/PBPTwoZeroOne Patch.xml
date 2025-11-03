@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <!-- 使用精确的 XPath 定位到 forcedMissRadius 节点并进行替换 -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="PLA_PBPTwoZeroOne"]/verbs/li[verbClass="Verb_Shoot"]/forcedMissRadius</xpath>
+    <value>
+      <forcedMissRadius>1.9</forcedMissRadius>
+    </value>
+  </Operation>
+</Patch>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 长枪管渲染 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_BarrelA</defName>
+    <label>extended barrel</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Barrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_BarrelA</weaponTraitDef>
+        <part>Barrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBUTwoZeroTwo</li>
+          <li>PLA_QJYTwoZeroOneE</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelA</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelA_o</outlinePath>
+              <offset>(111, 22)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTwoZeroTwo</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel_o</outlinePath>
+              <offset>(310, 125)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 短枪管渲染 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_BarrelB</defName>
+    <label>shortened barrel</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Barrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_BarrelB</weaponTraitDef>
+        <part>Barrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+          <li>PLA_QBSZeroNine</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelB</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelB_o</outlinePath>
+              <offset>(240, 140)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelC_o</outlinePath>
+              <offset>(256, 134)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBSZeroNine</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelD</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelD_o</outlinePath>
+              <offset>(326, 127)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+</Defs>

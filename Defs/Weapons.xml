@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--191步枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QBZOneNineOne</defName>
+    <graphicData>
+      <texPath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/QBZ191</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.125,1.125)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <weaponTags>
+      <li>PLA_QBZOneNineOne</li>
+    </weaponTags>
+    <comps>
+    <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <li>Receiver</li>
+        <li>Muzzle</li>
+        <li>Barrel</li>
+        <li>Stock</li>
+        <li>Sight</li>
+        <li>Magazine</li>
+        <li>Underbarrel</li>
+        <li>Ammo</li>
+      </supportParts>
+    </li>
+    <li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Receiver</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Receiver_o</outlinePath>
+              <offset>(81, 132)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Barrel</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Barrel_o</outlinePath>
+              <offset>(260, 140)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Stock</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Stock_o</outlinePath>
+              <offset>(-32, 110)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Sight</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Sight_o</outlinePath>
+              <offset>(42, 166)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Magazine</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Magazine_o</outlinePath>
+              <offset>(144, 59)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Grip</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/AssaultRifle/PLA_QBZOneNineOne/Grip_o</outlinePath>
+              <offset>(50, 73)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(230, 82)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--PBP201 60mm迫击炮-->
+<CWF.AdapterDef>
+    <defName>PLA_PBPTwoZeroOne</defName>
+        <graphicData>
+            <texPath>CustomizeWeapon/Weapons/FireSupport/PLA_PBPTwoZeroOne/PBP201</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(1.25,1.25)</drawSize>
+            <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_PBPTwoZeroOne</li>
+        </weaponTags>
+    <comps>
+<li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <li>Ammo</li>
+      </supportParts>
+      <defaultWeaponTraitDefs>
+      </defaultWeaponTraitDefs>
+    </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--QBA221霰弹枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QBATwoTwoOne</defName>
+        <graphicData>
+            <texPath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/QBA221</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(1.25,1.25)</drawSize>
+            <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_QBATwoTwoOne</li>
+        </weaponTags>
+    <comps>
+          <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <li>Receiver</li>
+        <li>Muzzle</li>  
+        <li>Barrel</li>       
+        <li>Stock</li>
+        <li>Sight</li>      
+        <li>Magazine</li>   
+        <li>Underbarrel</li>
+        <li>Ammo</li>        
+      </supportParts>
+      <defaultWeaponTraitDefs>
+      </defaultWeaponTraitDefs>
+    </li>
+<li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Receiver</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Receiver_o</outlinePath>
+              <offset>(96, 131)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Barrel</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Barrel_o</outlinePath>
+              <offset>(260, 134)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Stock</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Stock_o</outlinePath>
+              <offset>(-38, 108)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Sight</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Sight_o</outlinePath>
+              <offset>(41, 155)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine_o</outlinePath>
+              <offset>(151, 48)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Grip</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Grip_o</outlinePath>
+              <offset>(68, 72)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(230, 82)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--QLU11狙击榴-->
+<CWF.AdapterDef>
+    <defName>PLA_QLUEleven</defName>
+        <graphicData>
+            <texPath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/QLU11</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(1.5,1.5)</drawSize>
+            <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_QLUEleven</li>
+        </weaponTags>
+    <comps>
+          <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <!-- <li>Receiver</li> -->
+        <li>Muzzle</li>
+        <!-- <li>Barrel</li> -->
+        <li>Stock</li>
+        <li>Sight</li>
+        <!-- <li>Magazine</li> -->
+        <li>Underbarrel</li>
+        <!-- <li>Ammo</li> -->
+      </supportParts>
+      <defaultWeaponTraitDefs> <!-- 自带部件 -->
+        <li>PLA_Trait_YMJLOneOneZeroZeroFive</li>
+      </defaultWeaponTraitDefs>
+    </li>
+<li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Receiver</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Receiver_o</outlinePath>
+              <offset>(71, 150)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Barrel</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Barrel_o</outlinePath>
+              <offset>(250, 134)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Stock</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Stock_o</outlinePath>
+              <offset>(-71, 112)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(57, 176)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Magazine</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Magazine_o</outlinePath>
+              <offset>(110, 95)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Grip</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Launcher/PLA_QLUEleven/Grip_o</outlinePath>
+              <offset>(36, 80)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(280, 95)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <offset>(280, 95)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--QBS09霰弹枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QBSZeroNine</defName>
+        <graphicData>
+            <texPath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/QBS09</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(1.05,1.05)</drawSize>
+            <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_QBSZeroNine</li>
+        </weaponTags>
+    <comps>
+          <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <li>Receiver</li>
+        <!-- <li>Muzzle</li>   -->
+        <li>Barrel</li>
+        <li>Stock</li>
+        <li>Sight</li>
+        <li>Magazine</li>
+        <li>Underbarrel</li>
+        <li>Ammo</li>
+      </supportParts>
+      <defaultWeaponTraitDefs> <!-- 自带部件 -->
+      </defaultWeaponTraitDefs>
+    </li>
+<li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Receiver</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Receiver_o</outlinePath>
+              <offset>(69, 138)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Barrel</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Barrel_o</outlinePath>
+              <offset>(326, 127)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Stock</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Stock_o</outlinePath>
+              <offset>(-66, 92)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(41, 155)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Magazine</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Magazine_o</outlinePath>
+              <offset>(215, 118)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <offset>(215, 118)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Grip</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBSZeroNine/Grip_o</outlinePath>
+              <offset>(63, 69)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(230, 82)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--QBU202狙击枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QBUTwoZeroTwo</defName>
+        <graphicData>
+      <texPath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/QBU202</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.57,1.57)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+      <li>PLA_QBUTwoZeroTwo</li>
+        </weaponTags>
+    <comps>
+<li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <!-- <li>Receiver</li> -->
+        <!-- <li>Muzzle</li>   -->
+        <li>Barrel</li>
+        <li>Stock</li>
+        <li>Sight</li>
+        <!-- <li>Magazine</li> -->
+        <li>Underbarrel</li>
+        <li>Ammo</li>
+      </supportParts>
+      <defaultWeaponTraitDefs> <!-- 自带部件 -->
+        <li>PLA_Trait_CSOSTwoZeroA</li>
+      </defaultWeaponTraitDefs>
+    </li>
+<li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Receiver</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Receiver_o</outlinePath>
+              <offset>(48, 117)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/BarrelA</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/BarrelA_o</outlinePath>
+              <offset>(310, 125)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Stock</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Stock_o</outlinePath>
+              <offset>(-75, 109)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(41, 155)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Magazine</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Magazine_o</outlinePath>
+              <offset>(67, 84)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Grip</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Grip_o</outlinePath>
+              <offset>(11, 79)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Muzzle</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Muzzle_o</outlinePath>
+              <offset>(179, 124)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(230, 82)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--QJY201E通用机枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QJYTwoZeroOneE</defName>
+        <graphicData>
+            <texPath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/QJY201E</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(1.3,1.3)</drawSize>
+            <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_QJYTwoZeroOneE</li>
+        </weaponTags>
+    <comps>
+          <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <li>Receiver</li>
+        <li>Muzzle</li>  
+        <li>Barrel</li>
+        <li>Stock</li>
+        <li>Sight</li>
+        <li>Magazine</li>
+        <li>Underbarrel</li>
+        <li>Ammo</li>
+      </supportParts>
+      <defaultWeaponTraitDefs> <!-- 自带部件 -->
+      </defaultWeaponTraitDefs>
+    </li>
+<li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Receiver</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Receiver_o</outlinePath>
+              <offset>(36, 130)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Barrel</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Barrel_o</outlinePath>
+              <offset>(196, 132)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Stock</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Stock_o</outlinePath>
+              <offset>(-86, 121)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(41, 155)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Magazine</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Magazine_o</outlinePath>
+              <offset>(78, 68)</offset>
+            </baseTexture>
+            <layer>5</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Grip</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Grip_o</outlinePath>
+              <offset>(2, 68)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <texturePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Muzzle</texturePath>
+              <outlinePath>CustomizeWeapon/Weapons/FireSupport/PLA_QJYTwoZeroOneE/Muzzle_o</outlinePath>
+              <offset>(332, 126)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(230, 82)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--QJZ171式重机枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QJZOneSevenOne</defName>
+        <graphicData>
+      <texPath>CustomizeWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/QJZ171</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2.3,2.3)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_QJZOneSevenOne</li>
+        </weaponTags>
+    <comps>
+          <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <li>Receiver</li>
+        <li>Muzzle</li>  
+        <!-- <li>Barrel</li> -->
+        <li>Stock</li>
+        <li>Sight</li>
+        <li>Magazine</li>
+        <li>Underbarrel</li>
+        <li>Ammo</li>
+      </supportParts>
+      <defaultWeaponTraitDefs> <!-- 自带部件 -->
+      </defaultWeaponTraitDefs>
+    </li>
+    </comps>
+</CWF.AdapterDef>
+
+<!--10式反器材狙击步枪-->
+<CWF.AdapterDef>
+    <defName>PLA_QBUTen</defName>
+        <graphicData>
+      <texPath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTen/QBU10</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.9,1.9)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+        </graphicData>
+        <weaponTags>
+            <li>PLA_QBUTen</li>
+        </weaponTags>
+    <comps>
+<li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <!-- <li>Receiver</li> -->
+        <li>Muzzle</li>  
+        <!-- <li>Barrel</li> -->
+        <li>Stock</li>
+        <li>Sight</li>
+        <!-- <li>Magazine</li> -->
+        <li>Underbarrel</li>
+        <li>Ammo</li>
+      </supportParts>
+      <defaultWeaponTraitDefs> <!-- 自带部件 -->
+        <li>PLA_Trait_CSOSTwoZeroA</li>
+      </defaultWeaponTraitDefs>
+    </li>
+    </comps>
+</CWF.AdapterDef>
+</Defs>

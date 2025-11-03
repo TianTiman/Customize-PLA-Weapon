@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- 垂直握把 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_HandleA</defName>
+    <label>Vertical grip</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_HandleA</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
+              <offset>(214, 83)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
+              <offset>(210, 80)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 两脚架 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_HandleB</defName>
+    <label>Bipod</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_HandleB</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QLUEleven</li>
+          <li>PLA_QBUTwoZeroTwo</li>
+          <li>PLA_QJYTwoZeroOneE</li>
+          <li>PLA_QJZOneSevenOne</li>
+          <li>PLA_QBUTen</li>    
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
+              <offset>(268, 96)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QLUEleven</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
+              <offset>(250, 95)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTwoZeroTwo</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
+              <offset>(230, 80)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJYTwoZeroOneE</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
+              <offset>(246, 65)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 激光辅瞄器 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_LaserSight</defName>
+    <label>laser sight</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_LaserSight</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+          <li>PLA_QBUTwoZeroTwo</li>
+          <li>PLA_QJYTwoZeroOneE</li>
+          <li>PLA_QBSZeroNine</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(240, 90)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(210, 82)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTwoZeroTwo</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(220, 92)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJYTwoZeroOneE</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(215, 80)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBSZeroNine</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(230, 113)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 下挂榴弹发射器 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_HandleC</defName>
+    <label>grenade launcher</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_HandleC</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 下挂烟雾发射器 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_HandleD</defName>
+    <label>smoke launcher</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_HandleD</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 下挂EMP弹发射器 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_HandleE</defName>
+    <label>EMP cannon</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_HandleE</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+
+  <!-- 下挂燃烧弹发射器 -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_HandleF</defName>
+    <label>incendiary launcher</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_HandleF</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_QBATwoTwoOne</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBZOneNineOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBATwoTwoOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

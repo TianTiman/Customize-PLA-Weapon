@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<PLA_Module_Magazine.label>PLA弹鼓</PLA_Module_Magazine.label>
+<PLA_Module_Magazine.description>可拆卸式弹鼓,超大的弹容量,保证了射手在无须频繁更换供弹具的情况下发射出更多弹药,形成持续火力压制.</PLA_Module_Magazine.description>
+
+<PLA_Module_MagazineA.label>PLA快速弹匣</PLA_Module_MagazineA.label>
+<PLA_Module_MagazineA.description>全塑料材质的弹匣,减轻了重量同时提升了换弹速度</PLA_Module_MagazineA.description>
+
+<PLA_Module_MagazineB.label>PLA可拆卸式织物弹药袋</PLA_Module_MagazineB.label>
+<PLA_Module_MagazineB.description>可拆卸式织物弹药袋可拆卸式织物弹药袋，从而减轻了重量</PLA_Module_MagazineB.description>
+
+</LanguageData>

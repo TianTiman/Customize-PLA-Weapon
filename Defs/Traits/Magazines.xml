@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- PLA弹鼓 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_Magazine</defName>
+    <label>PLA Drum magazine</label>
+    <description>detachable ammunition drum, with an extremely large capacity, ensures that the shooter can fire more ammunition without having to frequently change the ammunition supply device, thereby achieving continuous firepower suppression.</description>
+    <burstShotCountMultiplier>2.5</burstShotCountMultiplier>
+  </WeaponTraitDef>
+
+  <!-- PLA快速弹匣 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_MagazineA</defName>
+    <label>PLA rapid magazine</label>
+    <description>The all-plastic magazine not only reduces the weight but also speeds up the reloading process.</description>
+    <statFactors>
+      <Mass>0.95</Mass>
+      <RangedWeapon_Cooldown>0.8</RangedWeapon_Cooldown>
+    </statFactors>
+  </WeaponTraitDef>
+
+  <!-- PLA可拆卸式织物弹药袋 -->
+  <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_MagazineB</defName>
+    <label>PLA Detachable fabric ammunition bag</label>
+    <description>The detachable fabric ammunition bag can be detached, thereby reducing the weight.</description>
+    <statFactors>
+      <Mass>0.8</Mass>
+    </statFactors>
+  </WeaponTraitDef>
+</Defs>

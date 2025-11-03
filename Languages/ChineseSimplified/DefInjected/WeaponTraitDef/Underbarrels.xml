@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<PLA_Trait_HandleA.label>PLA垂直握把</PLA_Trait_HandleA.label>
+<PLA_Trait_HandleA.description>垂直握把提供稳定的抓握点,射手能更好地控制武器.增强的稳定性在近距离作战中提升了射击精度.</PLA_Trait_HandleA.description>
+
+<PLA_Trait_HandleB.label>PLA两脚架</PLA_Trait_HandleB.label>
+<PLA_Trait_HandleB.description>两脚架通过牺牲转向和瞄准的速度,提升武器稳定性,射手能更好地进行远距离精确射击,提升有效射程.</PLA_Trait_HandleB.description>
+
+<PLA_Trait_LaserSight.label>PLA激光辅瞄器</PLA_Trait_LaserSight.label>
+<PLA_Trait_LaserSight.description>激光辅瞄器直接在目标身上投射出明亮的激光点。射手可以快速、直观的射击，显著减少瞄准耗时，并提升中近距离的射击精度。</PLA_Trait_LaserSight.description>
+
+<PLA_Trait_HandleC.label>PLA下挂榴弹发射器</PLA_Trait_HandleC.label>
+<PLA_Trait_HandleC.description>该发射器发射一枚高爆破片榴弹,造成大范围的高爆伤害.每次使用后都需重新装填.</PLA_Trait_HandleC.description>
+
+<PLA_Trait_HandleD.label>PLA下挂烟雾发射器</PLA_Trait_HandleD.label>
+<PLA_Trait_HandleD.description>该发射器发射烟雾弹,撞击时释放浓密烟雾,非常适合用于遮蔽视线,创造掩护.每次使用后都需重新装填.</PLA_Trait_HandleD.description>
+
+<PLA_Trait_HandleE.label>PLA下挂EMP弹发射器</PLA_Trait_HandleE.label>
+<PLA_Trait_HandleE.description>该发射器发射特制的 EMP 弹头,命中时释放的电磁脉冲能击晕机械体并瘫痪电子设备.每次使用后都需重新装填.</PLA_Trait_HandleE.description>
+
+<PLA_Trait_HandleF.label>PLA下挂燃烧弹发射器</PLA_Trait_HandleF.label>
+<PLA_Trait_HandleF.description>该发射器发射燃烧弹,撞击时释放一片火海,会点燃目标.每次使用后都需重新装填.</PLA_Trait_HandleF.description>
+  
+</LanguageData>

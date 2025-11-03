@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- RapidReceiver -->
+  <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_RapidReceiver</defName>
+    <label>rapid receiver</label>
+    <graphicData>
+      <texPath>CustomizeWeapon/Module/Stock/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_RapidReceiver</weaponTraitDef>
+        <part>Receiver</part>
+        <requiredWeaponTags>
+       <li>PLA_QBZOneNineOne</li>
+       <li>PLA_QBATwoTwoOne</li>
+       <li>PLA_QBSZeroNine</li>
+       <li>PLA_QJYTwoZeroOneE</li>
+       <li>PLA_QJZOneSevenOne</li>    
+        </requiredWeaponTags>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>
