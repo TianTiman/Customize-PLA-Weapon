@@ -6,7 +6,7 @@
     <defName>PLA_Module_DVPEightEightA</defName>
     <label>5.8x42mm DVP88-A</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/DVPEightEightA</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/DVPEightEightA</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -34,7 +34,7 @@
     <defName>PLA_Module_CSBMEFive</defName>
     <label>CS/BME5 60mm Satellite-Guided Mortar Shell</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -62,7 +62,7 @@
     <defName>PLA_Module_DBDZeroNine</defName>
     <label>DBD-09</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -91,7 +91,7 @@
     <defName>PLA_Module_DBUOneFourOne</defName>
     <label>5.8x42mm DBU141</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/DBUOneFourOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/DBUOneFourOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -119,7 +119,7 @@
     <defName>PLA_Module_DBUTwoZeroTwo</defName>
     <label>5.8x42mm DBU141</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -148,7 +148,7 @@
     <defName>PLA_Module_DBJOneZero</defName>
     <label>12.7x108mm DBJ10</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -177,7 +177,7 @@
     <defName>PLA_Module_DBTOneZero</defName>
     <label>12.7x108mm DBT10</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Ammo/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Ammo/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>

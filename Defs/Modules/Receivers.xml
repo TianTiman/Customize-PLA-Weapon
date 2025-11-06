@@ -5,7 +5,7 @@
     <defName>PLA_Module_RapidReceiver</defName>
     <label>rapid receiver</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Stock/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Stock/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>

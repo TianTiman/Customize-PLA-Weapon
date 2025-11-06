@@ -5,7 +5,7 @@
     <defName>PLA_Module_Stock</defName>
     <label>Telescopic stock</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Stock/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Stock/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -35,8 +35,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Stock/PLA_Stock</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Stock/PLA_Stock_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Stock/PLA_Stock</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Stock/PLA_Stock_o</outlinePath>
               <offset>(-57, 106)</offset>
             </graphicData>
           </li> 
@@ -50,7 +50,7 @@
     <defName>PLA_Module_StockA</defName>
     <label>Buffering stock</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Stock/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Stock/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>

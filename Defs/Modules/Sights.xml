@@ -5,7 +5,7 @@
   <defName>PLA_Module_QMKOneFiveTwo</defName>
   <label>QMK-152</label>
   <graphicData>
-    <texPath>CustomizeWeapon/Module/Sight/EightOne</texPath>
+    <texPath>CustomizePLAWeapon/Module/Sight/EightOne</texPath>
   </graphicData>
   <statBases>
     <WorkToMake>1500</WorkToMake>
@@ -38,8 +38,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
               <offset>(70, 177)</offset>
             </graphicData>
           </li>
@@ -50,8 +50,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
               <offset>(100, 170)</offset>
             </graphicData>
           </li>
@@ -62,8 +62,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
               <offset>(100, 165)</offset>
             </graphicData>
           </li>
@@ -74,8 +74,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
               <offset>(60, 163)</offset>
             </graphicData>
           </li>
@@ -86,8 +86,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
               <offset>(17, 169)</offset>
             </graphicData>
           </li>
@@ -100,7 +100,7 @@
   <defName>PLA_Module_IRFiveOneOneEight</defName>
   <label>IR5118</label>
   <graphicData>
-    <texPath>CustomizeWeapon/Module/Sight/EightOne</texPath>
+    <texPath>CustomizePLAWeapon/Module/Sight/EightOne</texPath>
   </graphicData>
   <statBases>
     <WorkToMake>1500</WorkToMake>
@@ -133,8 +133,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
               <offset>(85, 178)</offset>
             </graphicData>
           </li>
@@ -145,8 +145,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
               <offset>(100, 165)</offset>
             </graphicData>
           </li>
@@ -157,8 +157,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
               <offset>(120, 165)</offset>
             </graphicData>
           </li>
@@ -169,8 +169,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
               <offset>(50, 160)</offset>
             </graphicData>
           </li>
@@ -181,8 +181,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
               <offset>(10, 169)</offset>
             </graphicData>
           </li>
@@ -195,7 +195,7 @@
   <defName>PLA_Module_CSOSTwoZeroA</defName>
   <label>CSOS20A</label>
   <graphicData>
-    <texPath>CustomizeWeapon/Module/Sight/EightOne</texPath>
+    <texPath>CustomizePLAWeapon/Module/Sight/EightOne</texPath>
   </graphicData>
   <statBases>
     <WorkToMake>1500</WorkToMake>
@@ -225,8 +225,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
               <offset>(92, 178)</offset>
             </graphicData>
           </li>
@@ -237,8 +237,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight</texturePath>
-              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight_o</outlinePath>
               <offset>(60, 170)</offset>
             </graphicData>
           </li>
@@ -251,7 +251,7 @@
   <defName>PLA_Module_YMJLOneOneZeroZeroFive</defName>
   <label>YMJLOneOneZeroZeroFive sight</label>
   <graphicData>
-    <texPath>CustomizeWeapon/Module/Sight/EightOne</texPath>
+    <texPath>CustomizePLAWeapon/Module/Sight/EightOne</texPath>
   </graphicData>
   <statBases>
     <WorkToMake>1500</WorkToMake>
@@ -278,8 +278,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive_o</outlinePath>
               <offset>(20, 177)</offset>
             </graphicData>
           </li>
@@ -292,7 +292,7 @@
   <defName>PLA_Module_Holoscope</defName>
   <label>holoscope</label>
   <graphicData>
-    <texPath>CustomizeWeapon/Module/Sight/EightOne</texPath>
+    <texPath>CustomizePLAWeapon/Module/Sight/EightOne</texPath>
   </graphicData>
   <statBases>
     <WorkToMake>1500</WorkToMake>
@@ -325,8 +325,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
               <offset>(80, 177)</offset>
             </graphicData>
           </li>
@@ -337,8 +337,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
               <offset>(80, 165)</offset>
             </graphicData>
           </li>
@@ -349,8 +349,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
               <offset>(50, 152)</offset>
             </graphicData>
           </li>
@@ -361,8 +361,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
               <offset>(20, 170)</offset>
             </graphicData>
           </li>
@@ -373,8 +373,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
               <offset>(100, 168)</offset>
             </graphicData>
           </li>

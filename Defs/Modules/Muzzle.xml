@@ -5,7 +5,7 @@
     <defName>PLA_Module_Muzzle</defName>
     <label>Muzzle brake</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Stock/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Stock/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -38,8 +38,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Muzzle/PLA_Module_Muzzle</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Muzzle/PLA_Module_Muzzle_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_Muzzle</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_Muzzle_o</outlinePath>
               <offset>(362, 131)</offset>
             </graphicData>
           </li>

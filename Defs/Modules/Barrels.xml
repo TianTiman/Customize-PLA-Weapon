@@ -5,7 +5,7 @@
     <defName>PLA_Module_BarrelA</defName>
     <label>extended barrel</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Barrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Barrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -34,8 +34,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelA</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelA_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelA_o</outlinePath>
               <offset>(111, 22)</offset>
             </graphicData>
           </li>
@@ -46,8 +46,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel</texturePath>
-              <outlinePath>CustomizeWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel_o</outlinePath>
               <offset>(310, 125)</offset>
             </graphicData>
           </li>
@@ -61,7 +61,7 @@
     <defName>PLA_Module_BarrelB</defName>
     <label>shortened barrel</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Barrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Barrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -90,8 +90,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelB</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelB_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelB_o</outlinePath>
               <offset>(240, 140)</offset>
             </graphicData>
           </li>
@@ -102,8 +102,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelC_o</outlinePath>
               <offset>(256, 134)</offset>
             </graphicData>
           </li>
@@ -114,8 +114,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Barrel/PLA_Module_BarrelD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelD_o</outlinePath>
               <offset>(326, 127)</offset>
             </graphicData>
           </li>

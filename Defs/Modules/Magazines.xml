@@ -5,7 +5,7 @@
     <defName>PLA_Module_Magazine</defName>
     <label>PLA Drum magazine</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Magazine/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Magazine/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -34,8 +34,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Magazine/PLA_Magazine</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Magazine/PLA_Magazine_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine_o</outlinePath>
               <offset>(128, 55)</offset>
             </graphicData>
           </li>
@@ -46,8 +46,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Magazine/PLA_MagazineA</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Magazine/PLA_MagazineA_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineA_o</outlinePath>
               <offset>(145, 70)</offset>
             </graphicData>
           </li>
@@ -58,8 +58,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine</texturePath>
-              <outlinePath>CustomizeWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine_o</outlinePath>
               <offset>(136, 51)</offset>
             </graphicData>
           </li>
@@ -73,7 +73,7 @@
     <defName>PLA_Module_MagazineA</defName>
     <label>PLA rapid magazine</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Magazine/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Magazine/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -101,8 +101,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Magazine/PLA_MagazineB</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Magazine/PLA_MagazineB_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineB_o</outlinePath>
               <offset>(144, 59)</offset>
             </graphicData>
           </li>
@@ -113,8 +113,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Magazine/PLA_MagazineC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Magazine/PLA_MagazineC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineC_o</outlinePath>
               <offset>(151, 48)</offset>
             </graphicData>
           </li>
@@ -128,7 +128,7 @@
     <defName>PLA_Module_MagazineB</defName>
     <label>PLA Detachable fabric ammunition bag</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Magazine/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Magazine/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -156,8 +156,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Magazine/PLA_MagazineD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Magazine/PLA_MagazineD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineD_o</outlinePath>
               <offset>(78, 70)</offset>
             </graphicData>
           </li>

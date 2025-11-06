@@ -5,7 +5,7 @@
     <defName>PLA_Module_HandleA</defName>
     <label>Vertical grip</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -33,8 +33,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
               <offset>(214, 83)</offset>
             </graphicData>
           </li>
@@ -45,8 +45,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
               <offset>(210, 80)</offset>
             </graphicData>
           </li>
@@ -60,7 +60,7 @@
     <defName>PLA_Module_HandleB</defName>
     <label>Bipod</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -92,8 +92,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
               <offset>(268, 96)</offset>
             </graphicData>
           </li>
@@ -104,8 +104,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
               <offset>(250, 95)</offset>
             </graphicData>
           </li>
@@ -116,8 +116,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
               <offset>(230, 80)</offset>
             </graphicData>
           </li>
@@ -128,8 +128,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
               <offset>(246, 65)</offset>
             </graphicData>
           </li>
@@ -143,7 +143,7 @@
     <defName>PLA_Module_LaserSight</defName>
     <label>laser sight</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -174,8 +174,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
               <offset>(240, 90)</offset>
             </graphicData>
           </li>
@@ -186,8 +186,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
               <offset>(210, 82)</offset>
             </graphicData>
           </li>
@@ -198,8 +198,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
               <offset>(220, 92)</offset>
             </graphicData>
           </li>
@@ -210,8 +210,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
               <offset>(215, 80)</offset>
             </graphicData>
           </li>
@@ -222,8 +222,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
               <offset>(230, 113)</offset>
             </graphicData>
           </li>
@@ -237,7 +237,7 @@
     <defName>PLA_Module_HandleC</defName>
     <label>grenade launcher</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -265,8 +265,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(229, 80)</offset>
             </graphicData>
           </li>
@@ -277,8 +277,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(250, 77)</offset>
             </graphicData>
           </li>
@@ -292,7 +292,7 @@
     <defName>PLA_Module_HandleD</defName>
     <label>smoke launcher</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -320,8 +320,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(229, 80)</offset>
             </graphicData>
           </li>
@@ -332,8 +332,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(250, 77)</offset>
             </graphicData>
           </li>
@@ -347,7 +347,7 @@
     <defName>PLA_Module_HandleE</defName>
     <label>EMP cannon</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -375,8 +375,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(229, 80)</offset>
             </graphicData>
           </li>
@@ -387,8 +387,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(250, 77)</offset>
             </graphicData>
           </li>
@@ -402,7 +402,7 @@
     <defName>PLA_Module_HandleF</defName>
     <label>incendiary launcher</label>
     <graphicData>
-      <texPath>CustomizeWeapon/Module/Unberbarrel/EightOne</texPath>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
     </graphicData>
     <statBases>
       <WorkToMake>1500</WorkToMake>
@@ -430,8 +430,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(229, 80)</offset>
             </graphicData>
           </li>
@@ -442,8 +442,8 @@
               </weaponDefs>
             </matcher>
             <graphicData>
-              <texturePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizeWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
               <offset>(250, 77)</offset>
             </graphicData>
           </li>
