@@ -644,6 +644,78 @@
       <defaultWeaponTraitDefs> <!-- 自带部件 -->
       </defaultWeaponTraitDefs>
     </li>
+      <li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Receiver</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Receiver_o</outlinePath>
+              <offset>(17, 161)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Barrel</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Barrel_o</outlinePath>
+              <offset>(182, 155)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Stock</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Stock_o</outlinePath>
+              <offset>(-77, 147)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(-31, 181)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Magazine_o</outlinePath>
+              <offset>(42, 123)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Grip</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Grip_o</outlinePath>
+              <offset>(-17, 120)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Muzzle</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Muzzle_o</outlinePath>
+              <offset>(326, 157)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(163, 92)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
     </comps>
 </CWF.AdapterDef>
 
@@ -675,6 +747,177 @@
         <li>PLA_Trait_CSOSTwoZeroA</li>
       </defaultWeaponTraitDefs>
     </li>
+    <li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Receiver</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Receiver_o</outlinePath>
+              <offset>(43, 145)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Barrel</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Barrel_o</outlinePath>
+              <offset>(179, 144)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Stock</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Stock_o</outlinePath>
+              <offset>(-68, 112)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(57, 186)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Magazine_o</outlinePath>
+              <offset>(72, 106)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Grip</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Grip_o</outlinePath>
+              <offset>(4, 102)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Muzzle</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Muzzle_o</outlinePath>
+              <offset>(317, 146)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(163, 92)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
+    </comps>
+</CWF.AdapterDef>
+<!--56冲-->
+<CWF.AdapterDef>
+    <defName>PLA_TypeFiftySix</defName>
+    <graphicData>
+      <texPath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Type56</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <weaponTags>
+      <li>PLA_TypeFiftySix</li>
+    </weaponTags>
+    <comps>
+    <li Class="CWF.CompProperties_DynamicTraits">
+      <supportParts>
+        <!-- <li>Receiver</li> -->
+        <!-- <li>Muzzle</li> -->
+        <!-- <li>Barrel</li> -->
+        <li>Stock</li>
+        <!-- <li>Sight</li> -->
+        <li>Magazine</li>
+        <!-- <li>Underbarrel</li> -->
+        <!-- <li>Ammo</li> -->
+      </supportParts>
+    </li>
+    <li Class="CWF.CompProperties_DynamicGraphic">
+        <attachmentPoints>
+          <li>
+            <part>Receiver</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Receiver</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Receiver_o</outlinePath>
+              <offset>(90, 177)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Barrel</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Barrel</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Barrel_o</outlinePath>
+              <offset>(232, 171)</offset>
+            </baseTexture>
+            <layer>2</layer>
+          </li>
+          <li>
+            <part>Stock</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Stock</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Stock_o</outlinePath>
+              <offset>(-51, 140)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Sight</part>
+            <baseTexture>
+              <offset>(0, 0)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Magazine</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Magazine_o</outlinePath>
+              <offset>(147, 102)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+          <li>
+            <part>Grip</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Grip</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Grip_o</outlinePath>
+              <offset>(57, 123)</offset>
+            </baseTexture>
+            <layer>20</layer>
+          </li>
+          <li>
+            <part>Muzzle</part>
+            <baseTexture>
+              <texturePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Muzzle</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/AssaultRifle/PLA_TypeFiftySix/Muzzle_o</outlinePath>
+              <offset>(337, 175)</offset>
+            </baseTexture>
+            <layer>3</layer>
+          </li>
+          <li>
+            <part>Underbarrel</part>
+            <baseTexture>
+              <offset>(230, 82)</offset>
+            </baseTexture>
+            <layer>1</layer>
+          </li>
+        </attachmentPoints>
+      </li>
     </comps>
 </CWF.AdapterDef>
 </Defs>

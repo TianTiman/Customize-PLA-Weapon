@@ -91,6 +91,30 @@
               <offset>(17, 169)</offset>
             </graphicData>
           </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTen</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(57, 180)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJZOneSevenOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Sight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Sight_o</outlinePath>
+              <offset>(-31, 181)</offset>
+            </graphicData>
+          </li>
         </graphicCases>
     </li>
   </modExtensions>
@@ -186,6 +210,30 @@
               <offset>(10, 169)</offset>
             </graphicData>
           </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTen</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(60, 180)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJZOneSevenOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(20, 198)</offset>
+            </graphicData>
+          </li>
         </graphicCases>
     </li>
   </modExtensions>
@@ -240,6 +288,30 @@
               <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight</texturePath>
               <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight_o</outlinePath>
               <offset>(60, 170)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTen</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Sight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Sight_o</outlinePath>
+              <offset>(60, 170)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJZOneSevenOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
+              <offset>(20, 200)</offset>
             </graphicData>
           </li>
         </graphicCases>
@@ -376,6 +448,30 @@
               <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
               <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
               <offset>(100, 168)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTen</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(60, 180)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJZOneSevenOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(-15, 193)</offset>
             </graphicData>
           </li>
         </graphicCases>

@@ -105,4 +105,15 @@
     </abilityProps>
   </WeaponTraitDef>
 
+    <!-- 刺刀 -->
+  <!-- <WeaponTraitDef ParentName="CWF_Trait">
+    <defName>PLA_Trait_Bayonet</defName>
+    <label>PLA Bayonet</label>
+    <description>The bayonet installed on the gun, used for stabbing in close combat.</description>
+    <statFactors>
+      <MeleeWeapon_DamageMultiplier>1.2</MeleeWeapon_DamageMultiplier>
+      <MeleeWeapon_CooldownMultiplier>0.90</MeleeWeapon_CooldownMultiplier>
+    </statFactors>
+  </WeaponTraitDef> -->
+
 </Defs>

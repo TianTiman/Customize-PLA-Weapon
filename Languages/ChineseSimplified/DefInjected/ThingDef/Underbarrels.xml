@@ -22,4 +22,7 @@
 <PLA_Module_HandleF.label>PLA下挂燃烧弹发射器</PLA_Module_HandleF.label>
 <PLA_Module_HandleF.description>该发射器发射燃烧弹,撞击时释放一片火海,会点燃目标.每次使用后都需重新装填.</PLA_Module_HandleF.description>
 
+<PLA_Module_Bayonet.label>下挂刺刀</PLA_Module_Bayonet.label>
+<PLA_Module_Bayonet.description>安装在枪上的刺刀,用于近战时的刺击.</PLA_Module_Bayonet.description>
+
 </LanguageData>

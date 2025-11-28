@@ -133,6 +133,30 @@
               <offset>(246, 65)</offset>
             </graphicData>
           </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QBUTen</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleG</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleG_o</outlinePath>
+              <offset>(163, 92)</offset>
+            </graphicData>
+          </li>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_QJZOneSevenOne</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleH</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleH_o</outlinePath>
+              <offset>(161, 99)</offset>
+            </graphicData>
+          </li>
         </graphicCases>
       </li>
     </modExtensions>
@@ -451,4 +475,47 @@
       </li>
     </modExtensions>
   </ThingDef>
+
+    <!-- 下挂刺刀 -->
+  <!-- <ThingDef ParentName="CWF_Module">
+    <defName>PLA_Module_Bayonet</defName>
+    <label>incendiary launcher</label>
+    <graphicData>
+      <texPath>CustomizePLAWeapon/Module/Unberbarrel/EightOne</texPath>
+    </graphicData>
+    <statBases>
+      <WorkToMake>1500</WorkToMake>
+    </statBases>
+    <costList>
+        <Steel>10</Steel>
+        <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+       <researchPrerequisite>PLA_Research_TacticalModification</researchPrerequisite>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="CWF.TraitModuleExtension">
+        <weaponTraitDef>PLA_Trait_Bayonet</weaponTraitDef>
+        <part>Underbarrel</part>
+        <requiredWeaponTags>
+          <li>PLA_QBZOneNineOne</li>
+          <li>PLA_TypeFiftySix</li>
+        </requiredWeaponTags>
+        <graphicCases>
+          <li>
+            <matcher>
+              <weaponDefs>
+                <li>PLA_TypeFiftySix</li>
+              </weaponDefs>
+            </matcher>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleF</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleF_o</outlinePath>
+              <offset>(360, 150)</offset>
+            </graphicData>
+          </li>
+        </graphicCases>
+      </li>
+    </modExtensions>
+  </ThingDef> -->
 </Defs>
