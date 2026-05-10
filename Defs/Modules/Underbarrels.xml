@@ -25,32 +25,6 @@
           <li>PLA_QBZOneNineOne</li>
           <li>PLA_QBATwoTwoOne</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
-              <offset>(214, 83)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
-              <offset>(210, 80)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -84,80 +58,6 @@
           <li>PLA_QJZOneSevenOne</li>
           <li>PLA_QBUTen</li>    
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
-              <offset>(268, 96)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QLUEleven</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
-              <offset>(250, 95)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
-              <offset>(230, 80)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJYTwoZeroOneE</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
-              <offset>(246, 65)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTen</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleG</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleG_o</outlinePath>
-              <offset>(163, 92)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleH</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleH_o</outlinePath>
-              <offset>(161, 99)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -190,68 +90,6 @@
           <li>PLA_QJYTwoZeroOneE</li>
           <li>PLA_QBSZeroNine</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
-              <offset>(240, 90)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
-              <offset>(210, 82)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
-              <offset>(220, 92)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJYTwoZeroOneE</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
-              <offset>(215, 80)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBSZeroNine</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
-              <offset>(230, 113)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -281,32 +119,6 @@
           <li>PLA_QBZOneNineOne</li>
           <li>PLA_QBATwoTwoOne</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(229, 80)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(250, 77)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -336,32 +148,6 @@
           <li>PLA_QBZOneNineOne</li>
           <li>PLA_QBATwoTwoOne</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(229, 80)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(250, 77)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -391,32 +177,6 @@
           <li>PLA_QBZOneNineOne</li>
           <li>PLA_QBATwoTwoOne</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(229, 80)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(250, 77)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -446,32 +206,6 @@
           <li>PLA_QBZOneNineOne</li>
           <li>PLA_QBATwoTwoOne</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(229, 80)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
-              <offset>(250, 77)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>

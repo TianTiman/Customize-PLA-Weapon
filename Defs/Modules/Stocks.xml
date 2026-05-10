@@ -28,32 +28,6 @@
        <li>PLA_QJYTwoZeroOneE</li>
        <li>PLA_TypeFiftySix</li>      
        </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Stock/PLA_Stock</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Stock/PLA_Stock_o</outlinePath>
-              <offset>(-57, 106)</offset>
-            </graphicData>
-          </li> 
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_TypeFiftySix</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Stock/PLA_StockB</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Stock/PLA_StockB_o</outlinePath>
-              <offset>(-51, 140)</offset>
-            </graphicData>
-          </li> 
-        </graphicCases>
       </li> 
     </modExtensions>
   </ThingDef>

@@ -91,6 +91,136 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(70, 177)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(85, 178)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_CSOSTwoZeroA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
+              <offset>(92, 178)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(80, 177)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_BarrelA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelA_o</outlinePath>
+              <offset>(111, 22)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_BarrelB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelB_o</outlinePath>
+              <offset>(240, 140)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Magazine</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine_o</outlinePath>
+              <offset>(128, 55)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_MagazineA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineB_o</outlinePath>
+              <offset>(144, 59)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Stock</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Stock/PLA_Stock</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Stock/PLA_Stock_o</outlinePath>
+              <offset>(-57, 106)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
+              <offset>(214, 83)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
+              <offset>(268, 96)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_LaserSight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(240, 90)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleC</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleD</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleE</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleF</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(229, 80)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--PBP201 60mm迫击炮-->
@@ -209,6 +339,104 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(100, 170)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(100, 165)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(80, 165)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_BarrelB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelC_o</outlinePath>
+              <offset>(256, 134)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Magazine</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineA_o</outlinePath>
+              <offset>(145, 70)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_MagazineA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineC_o</outlinePath>
+              <offset>(151, 48)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleA_o</outlinePath>
+              <offset>(210, 80)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_LaserSight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(210, 82)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleC</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleD</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleE</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleF</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleC_o</outlinePath>
+              <offset>(250, 77)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--QLU11狙击榴-->
@@ -310,6 +538,32 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_YMJLOneOneZeroZeroFive</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive_o</outlinePath>
+              <offset>(20, 177)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Muzzle</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_Muzzle</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_Muzzle_o</outlinePath>
+              <offset>(362, 131)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleB_o</outlinePath>
+              <offset>(250, 95)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--QBS09霰弹枪-->
@@ -410,6 +664,56 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(100, 165)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(120, 165)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(100, 168)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_BarrelB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelD_o</outlinePath>
+              <offset>(326, 127)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Magazine</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine_o</outlinePath>
+              <offset>(136, 51)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_LaserSight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(230, 113)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--QBU202狙击枪-->
@@ -513,6 +817,64 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(60, 163)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(50, 160)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_CSOSTwoZeroA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight_o</outlinePath>
+              <offset>(60, 170)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(50, 152)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_BarrelA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel_o</outlinePath>
+              <offset>(310, 125)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
+              <offset>(230, 80)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_LaserSight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(220, 92)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--QJY201E通用机枪-->
@@ -615,6 +977,56 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(17, 169)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(10, 169)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(20, 170)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_MagazineB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineD_o</outlinePath>
+              <offset>(78, 70)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleE_o</outlinePath>
+              <offset>(246, 65)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_LaserSight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleD_o</outlinePath>
+              <offset>(215, 80)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--QJZ171式重机枪-->
@@ -717,6 +1129,64 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Sight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Sight_o</outlinePath>
+              <offset>(-31, 181)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(20, 198)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_CSOSTwoZeroA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
+              <offset>(20, 200)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(-15, 193)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_MagazineB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineE</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineE_o</outlinePath>
+              <offset>(42, 123)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Muzzle</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleA</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleA_o</outlinePath>
+              <offset>(326, 157)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleH</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleH_o</outlinePath>
+              <offset>(161, 99)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 
 <!--10式反器材狙击步枪-->
@@ -820,6 +1290,56 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_QMKOneFiveTwo</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
+              <offset>(57, 180)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_IRFiveOneOneEight</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
+              <offset>(60, 180)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_CSOSTwoZeroA</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Sight</texturePath>
+              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Sight_o</outlinePath>
+              <offset>(60, 170)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Holoscope</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
+              <offset>(60, 180)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Muzzle</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleB_o</outlinePath>
+              <offset>(317, 146)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_HandleB</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleG</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Unberbarrel/PLA_HandleG_o</outlinePath>
+              <offset>(163, 92)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 <!--56冲-->
 <CWF.AdapterDef>
@@ -919,5 +1439,23 @@
         </attachmentPoints>
       </li>
     </comps>
+    <moduleGraphicOverrides>
+      <li>
+        <moduleDef>PLA_Module_Magazine</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine_o</outlinePath>
+              <offset>(135, 110)</offset>
+            </graphicData>
+      </li>
+      <li>
+        <moduleDef>PLA_Module_Stock</moduleDef>
+            <graphicData>
+              <texturePath>CustomizePLAWeapon/Module/Stock/PLA_StockB</texturePath>
+              <outlinePath>CustomizePLAWeapon/Module/Stock/PLA_StockB_o</outlinePath>
+              <offset>(-51, 140)</offset>
+            </graphicData>
+      </li>
+    </moduleGraphicOverrides>
 </CWF.AdapterDef>
 </Defs>

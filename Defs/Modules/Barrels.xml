@@ -26,32 +26,6 @@
           <li>PLA_QBUTwoZeroTwo</li>
           <li>PLA_QJYTwoZeroOneE</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelA_o</outlinePath>
-              <offset>(111, 22)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel</texturePath>
-              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Barrel_o</outlinePath>
-              <offset>(310, 125)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -82,44 +56,6 @@
           <li>PLA_QBATwoTwoOne</li>
           <li>PLA_QBSZeroNine</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelB</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelB_o</outlinePath>
-              <offset>(240, 140)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelC_o</outlinePath>
-              <offset>(256, 134)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBSZeroNine</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Barrel/PLA_Module_BarrelD_o</outlinePath>
-              <offset>(326, 127)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>

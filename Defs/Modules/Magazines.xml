@@ -27,56 +27,6 @@
           <li>PLA_QBSZeroNine</li>
           <li>PLA_TypeFiftySix</li>          
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine_o</outlinePath>
-              <offset>(128, 55)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineA_o</outlinePath>
-              <offset>(145, 70)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBSZeroNine</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine</texturePath>
-              <outlinePath>CustomizePLAWeapon/Weapons/CQB/PLA_QBATwoTwoOne/Magazine_o</outlinePath>
-              <offset>(136, 51)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_TypeFiftySix</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_Magazine_o</outlinePath>
-              <offset>(135, 110)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -106,32 +56,6 @@
           <li>PLA_QBZOneNineOne</li>
           <li>PLA_QBATwoTwoOne</li>
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineB</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineB_o</outlinePath>
-              <offset>(144, 59)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineC</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineC_o</outlinePath>
-              <offset>(151, 48)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>
@@ -161,32 +85,6 @@
           <li>PLA_QJYTwoZeroOneE</li>
           <li>PLA_QJZOneSevenOne</li> 
         </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJYTwoZeroOneE</li>   
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineD</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineD_o</outlinePath>
-              <offset>(78, 70)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>   
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineE</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Magazine/PLA_MagazineE_o</outlinePath>
-              <offset>(42, 123)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li>
     </modExtensions>
   </ThingDef>

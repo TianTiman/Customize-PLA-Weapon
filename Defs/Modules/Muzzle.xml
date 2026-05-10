@@ -30,44 +30,6 @@
        <li>PLA_QJZOneSevenOne</li>
        <li>PLA_QBUTen</li>    
        </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QLUEleven</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_Muzzle</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_Muzzle_o</outlinePath>
-              <offset>(362, 131)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleA_o</outlinePath>
-              <offset>(326, 157)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTen</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleB</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Muzzle/PLA_Module_MuzzleB_o</outlinePath>
-              <offset>(317, 146)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
       </li> 
     </modExtensions>
   </ThingDef>

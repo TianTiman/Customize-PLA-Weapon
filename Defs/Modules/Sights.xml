@@ -30,95 +30,10 @@
       <li>PLA_QJZOneSevenOne</li>
       <li>PLA_QBUTen</li> 
       </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
-              <offset>(70, 177)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
-              <offset>(100, 170)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBSZeroNine</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
-              <offset>(100, 165)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
-              <offset>(60, 163)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJYTwoZeroOneE</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
-              <offset>(17, 169)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTen</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_QMKOneFiveTwo_o</outlinePath>
-              <offset>(57, 180)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Sight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Weapons/FireSupport/PLA_QJZOneSevenOne/Sight_o</outlinePath>
-              <offset>(-31, 181)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
     </li>
   </modExtensions>
   </ThingDef>
+
 <!-- IR5118 -->
   <ThingDef ParentName="CWF_Module">
   <defName>PLA_Module_IRFiveOneOneEight</defName>
@@ -149,95 +64,10 @@
       <li>PLA_QJZOneSevenOne</li>
       <li>PLA_QBUTen</li> 
       </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(85, 178)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(100, 165)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBSZeroNine</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(120, 165)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(50, 160)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJYTwoZeroOneE</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(10, 169)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTen</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(60, 180)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_IRFiveOneOneEight_o</outlinePath>
-              <offset>(20, 198)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
     </li>
   </modExtensions>
   </ThingDef>
+
 <!-- CSOS20A -->
   <ThingDef ParentName="CWF_Module">
   <defName>PLA_Module_CSOSTwoZeroA</defName>
@@ -265,59 +95,10 @@
       <li>PLA_QJZOneSevenOne</li>
       <li>PLA_QBUTen</li>  
       </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
-              <offset>(92, 178)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTwoZeroTwo/Sight_o</outlinePath>
-              <offset>(60, 170)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTen</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Sight</texturePath>
-              <outlinePath>CustomizePLAWeapon/Weapons/Sniper/PLA_QBUTen/Sight_o</outlinePath>
-              <offset>(60, 170)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_CSOSTwoZeroA_o</outlinePath>
-              <offset>(20, 200)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
     </li>
   </modExtensions>
   </ThingDef>
+
 <!-- YMJL11005 -->
   <ThingDef ParentName="CWF_Module">
   <defName>PLA_Module_YMJLOneOneZeroZeroFive</defName>
@@ -342,23 +123,10 @@
       <requiredWeaponTags>
       <li>PLA_QLUEleven</li>
       </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QLUEleven</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_YMJLOneOneZeroZeroFive_o</outlinePath>
-              <offset>(20, 177)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
     </li>
   </modExtensions>
   </ThingDef>
+
 <!-- 全息瞄准镜 -->
   <ThingDef ParentName="CWF_Module">
   <defName>PLA_Module_Holoscope</defName>
@@ -389,92 +157,6 @@
           <li>PLA_QJZOneSevenOne</li>
           <li>PLA_QBUTen</li> 
       </requiredWeaponTags>
-        <graphicCases>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBZOneNineOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(80, 177)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBATwoTwoOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(80, 165)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTwoZeroTwo</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(50, 152)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJYTwoZeroOneE</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(20, 170)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBSZeroNine</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(100, 168)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QBUTen</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(60, 180)</offset>
-            </graphicData>
-          </li>
-          <li>
-            <matcher>
-              <weaponDefs>
-                <li>PLA_QJZOneSevenOne</li>
-              </weaponDefs>
-            </matcher>
-            <graphicData>
-              <texturePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope</texturePath>
-              <outlinePath>CustomizePLAWeapon/Module/Sight/PLA_Module_Holoscope_o</outlinePath>
-              <offset>(-15, 193)</offset>
-            </graphicData>
-          </li>
-        </graphicCases>
     </li>
   </modExtensions>
   </ThingDef>
